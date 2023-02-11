@@ -6,3 +6,4 @@ Before proceeding make sure that you have all the libraries installed
 pip install bs4
 pip install selenium 
 ```
+Once all the libraries are installed run **besautifulSoup_Exer.py**
